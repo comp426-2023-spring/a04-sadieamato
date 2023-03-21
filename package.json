@@ -1,0 +1,23 @@
+{
+  "name": "a04-sadieamato",
+  "version": "1.0.0",
+  "description": "RPSLS in API",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "\"node server.js --port=5555\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a04-sadieamato.git"
+  },
+  "author": "@sadieamato",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a04-sadieamato/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a04-sadieamato#readme"
+}
